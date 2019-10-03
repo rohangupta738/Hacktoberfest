@@ -4,7 +4,7 @@ int main ()
 {
  long int n,x,count=0;
  double q,z;
- int am[10000],r[100000];
+ int am[100000],r[1000000];
 	
 	cin>>n;
 	for (int i=0;i<n;i++)
@@ -18,5 +18,6 @@ int main ()
     count=count+1;
 }
 cout<<count;
+cout<<"happy hacking";
     
 	return 0;}
