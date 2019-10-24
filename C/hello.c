@@ -76,5 +76,6 @@ n/=10;
 }
 printf("binary number=%d, decimal number=%d\n" ,nsave,dec);
 printf("this is hacktoberfest 2k19");
+printf("Happy hacking");
 return 0;
 }
